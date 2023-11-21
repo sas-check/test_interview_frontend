@@ -7,6 +7,8 @@ Using the Star Wars API [swapi](https://swapi.dev/api/), display a list of all S
 
 For every user, we’d like to display a card with the name of each planet along with a random picture of cats using [cataas API](https://cataas.com/) for each planet. Each card should be colored based on the level of `surface_water` and have some kind of animation when the user hovers over the card. When we click on a planet’s card, more information should appear in a modal about the planet.
 
+You are granted absolute creative freedom for the design.
+
 - [swapi API documentation](https://swapi.dev/documentation)
 - [cataas API documentation](https://cataas.com/).
 
@@ -15,7 +17,7 @@ For every user, we’d like to display a card with the name of each planet along
 ### Shoulds
 The finished solution  **should:**
 
--   Be written in REACTJS.
+-   Be written using ReactJS and its features.
 -   Be well coded and documented.
 -   Run correctly on the Chrome web browser.
 -   Be simple and concise.
