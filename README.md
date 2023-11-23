@@ -40,5 +40,5 @@ The finished solution  **should not:**
 
 -   Include your name in the README.
 -   Create a private  [GitHub](https://help.github.com/en/articles/create-a-repo)  repository.
--   [Invite](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository)  [@jacquemus](https://github.com/jacquemus) and [@Ionys320](https://github.com/orgs/sas-check/people/Ionys320)  to your private repo
+-   [Invite](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository)  [@jacquemus](https://github.com/jacquemus) and [@Ionys320](https://github.com/Ionys320) to your private repo
 -   Let us know you've completed the exercise by email.
