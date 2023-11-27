@@ -18,7 +18,7 @@ You are granted absolute creative freedom for the design.
 The finished solution  **should:**
 
 -   Be written using ReactJS and its features.
--   Be well coded and documented.jacquemus
+-   Be well coded and documented.
 -   Run correctly on the Chrome web browser.
 -   Be simple and concise.
 
